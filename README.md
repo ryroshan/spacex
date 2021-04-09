@@ -18,6 +18,11 @@ To run this project locally, run the following command  `yarn start` or `npm sta
 SpaceX app is deployed on **Heruko** [Spacex-Launch-Programs](deployed url)
 
 
+### What to quick check in the vscode browser
+
+https://github1s.com/ryroshan/spacex
+
+
 
 
 Developed By [ Roshan Yadav ](https://github.com/ryroshan)
